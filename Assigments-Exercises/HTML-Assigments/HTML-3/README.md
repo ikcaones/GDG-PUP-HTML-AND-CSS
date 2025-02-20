@@ -29,8 +29,8 @@ This assignment will guide you in creating a clickable image link using HTML. Yo
          <h1>My Hobby: Photography</h1>
          <p>Click the image below to learn more about photography:</p>
          <a href="https://www.photographyblog.com" target="_blank">
-             <img src="https://en.wikipedia.org/wiki/File:Graphic-designer-application-projects-collage-2.0.jpg" 
-                  alt="More about Graphic Design" 
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nikon_D5100.jpg/800px-Nikon_D5100.jpg" 
+                  alt="Nikon D5100 Camera" 
                   style="width:400px; height:auto; border:1px solid #000;">
          </a>
      </body>
